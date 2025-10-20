@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "id": "08cb5779-9112-48a1-bbec-16be0e0fc23c",
+      "title": "Bhanu Sunka",
+      "description": "minim Lorem esse est proident consequat et incididunt deserunt sit fugiat ipsum dolore ad anim veniam deserunt tempor ea sint",
+      "startDateTime": "2025-10-30T15:00:00.000Z",
+      "endDateTime": "2025-10-30T15:43:00.000Z",
+      "createdBy": "Bhanu",
+      "createdAt": "2025-10-19T18:43:53.368Z",
+      "timezone": "Asia/Calcutta"
+    },
+    {
+      "id": "a24a0ad4-c533-41c3-bfa6-7bb87cb03e2c",
+      "title": "Lead Brand Liaison",
+      "description": "Animi a expedita possimus voluptatem eum officiis.",
+      "startDateTime": "2025-12-07T23:09:00.000Z",
+      "endDateTime": "2026-04-19T21:17:00.000Z",
+      "createdBy": "Liam Smith",
+      "createdAt": "2025-10-19T18:59:02.859Z",
+      "timezone": "America/Los_Angeles"
+    },
+    {
+      "id": "eda5e863-41cf-41d1-bf2c-599bb3a83081",
+      "title": "Customer Web Representative",
+      "description": "Veritatis officiis nobis totam quis quia.",
+      "startDateTime": "2025-10-20T08:38:00.000Z",
+      "endDateTime": "2025-10-24T11:42:00.000Z",
+      "createdBy": "Bhanu",
+      "createdAt": "2025-10-20T08:38:57.084Z",
+      "timezone": "Asia/Calcutta"
+    }
+  ]
+}
